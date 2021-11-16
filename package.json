@@ -15,7 +15,7 @@
     "@aws-sdk/client-s3": "^1.0.0-rc.8",
     "@aws-sdk/s3-request-presigner": "^1.0.0-rc.8",
     "apollo-server": "^2.19.0",
-    "aws-sdk": "^2.804.0",
+    "aws-sdk": "^2.814.0",
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.5",
     "cors": "^2.8.5",
